@@ -1,13 +1,11 @@
 Package: com.oneminusone97.colorbanners2
 Version: 1.1.1
-Architecture: iphoneos-arm
+Section: Tweaks
 Maintainer: GKTzero <oneminusone97@gmail.com>
+Architecture: iphoneos-arm
 Filename: ./debs/colorbanners2.deb
 Size: 656434
 MD5sum: 0F9541D0D590591EE64F9089406DF59E
-SHA1: 6BEB8CB4AB59D0B91B7BDD6CD640398965D09D92
-SHA256: 1D4BF550B201227BAED0A4ABAC876BD9A89711862945527BA82228476515AEE3
-Section: Tweaks
 Description: Welcome To Oneminusone97 Repository
-Author: GKTzero <oneminusone97@gmail.com>
 Name: ColorBanners 2
+Author: GKTzero <oneminusone97@gmail.com>
