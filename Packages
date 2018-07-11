@@ -1,0 +1,15 @@
+Package: com.hackyouriphone.colorbanners2
+Name: ColorBanners 2
+Version: 1.1.1
+Depends: firmware (>= 10.0), mobilesubstrate (>= 0.9.5000), preferenceloader, org.thebigboss.libcolorpicker (>= 1.1)
+Conflicts: com.golddavid.colorbanners, com.golddavid.colorbanners-cb
+Architecture: iphoneos-arm
+Author: David Goldman <repo@hackyouriphone.org>
+Depiction: http://repo.hackyouriphone.org/depiction/depiction.php?filename=colorbanners2
+Section: HYI - Tweaks
+Description: Color your notifications
+Homepage: http://repo.hackyouriphone.org/depiction/depiction.php?filename=colorbanners2
+Maintainer: iLeoLion <repo@hackyouriphone.org>
+Filename: ./debs/colorbanners2.deb
+Size: 656,434
+MD5sum: 0F9541D0D590591EE64F9089406DF59E
