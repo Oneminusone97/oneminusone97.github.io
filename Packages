@@ -1,11 +1,11 @@
-Package: com.oneminusone97.colorbanners2
-Version: 1.1.1
+Package: com.oneminusone97.littlex
+Version: 1.3.7
 Section: Tweaks
 Maintainer: GKTzero <oneminusone97@gmail.com>
 Architecture: iphoneos-arm
-Filename: ./debs/colorbanners2.deb
-Size: 656284
-MD5sum: 1b658d0b72cce497277779bbe4f922fd
+Filename: ./debs/littlex.deb
+Size: 27538
+MD5sum: 3917BB4029D1D82405ADE779897A9172
 Description: Welcome To Oneminusone97 Repository
-Name: ColorBanners 2
+Name: LittleX
 Author: GKTzero <oneminusone97@gmail.com>
