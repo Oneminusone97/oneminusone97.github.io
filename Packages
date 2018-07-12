@@ -1,11 +1,13 @@
 Package: com.oneminusone97.littlex
 Version: 1.3.7
-Section: Tweaks
-Maintainer: GKTzero <oneminusone97@gmail.com>
 Architecture: iphoneos-arm
-Filename: ./debs/littlex.deb
+Maintainer: GKTzero97 <oneminusone97@gmail.com>
+Filename: ./debs/littlex_1.3.7.deb
 Size: 27538
 MD5sum: 3917bb4029d1d82405ade779897a9172
+SHA1: 8702ac2ca580e4305a3814c0ba13f30698d96834
+SHA256: d8cf58010c438ac87a5d8b2c58f997684dd9204245089957c446aadc8f5c609b
+Section: Tweaks
 Description: Welcome To Oneminusone97 Repository
+Author: GKTzero97 <oneminusone97@gmail.com>
 Name: LittleX
-Author: GKTzero <oneminusone97@gmail.com>
