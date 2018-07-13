@@ -7,7 +7,19 @@ Depends: mobilesubstrate, preferenceloader
 Filename: ./debs/littlex_1.3.7.deb
 Size: 27538
 MD5sum: 3917bb4029d1d82405ade779897a9172
-Homepage: http://twitter.com/ijulioverne
 Description: Welcome To Oneminusone97 Repository
 Name: LittleX
+Author: GKTzero97 <oneminusone97@gmail.com>
+
+Package: com.oneminusone97.fluidity
+Architecture: iphoneos-arm
+Version: 0.1.0
+Section: Tweaks
+Maintainer: GKTzero97 <oneminusone97@gmail.com>
+Depends: mobilesubstrate
+Filename: ./debs/fluidity_0.1.0.deb
+Size: 258862
+MD5sum: 9ac9b783966c6ade610dd5799906b525
+Description: Welcome To Oneminusone97 Repository
+Name: Fluidity
 Author: GKTzero97 <oneminusone97@gmail.com>
