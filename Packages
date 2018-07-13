@@ -1,4 +1,5 @@
 Package: com.oneminusone97.littlex
+Status: install ok installed
 Architecture: iphoneos-arm
 Version: 1.3.7
 Section: Tweaks
@@ -12,6 +13,7 @@ Name: LittleX
 Author: GKTzero97 <oneminusone97@gmail.com>
 
 Package: com.oneminusone97.fluidity
+Status: install ok installed
 Architecture: iphoneos-arm
 Version: 0.1.0
 Section: Tweaks
