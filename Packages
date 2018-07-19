@@ -1,38 +1,14 @@
-Package: com.oneminusone97.littlex
-Architecture: iphoneos-arm
-Version: 1.3.7
-Section: Tweaks
-Maintainer: GKTzero97 <oneminusone97@gmail.com>
-Depends: mobilesubstrate, preferenceloader
-Filename: ./debs/littlex_1.3.7.deb
-Size: 27538
-MD5sum: 3917bb4029d1d82405ade779897a9172
-Description: Welcome To Oneminusone97 Repository
-Name: LittleX
-Author: GKTzero97 <oneminusone97@gmail.com>
-
-Package: com.oneminusone97.fluidity
-Architecture: iphoneos-arm
-Version: 0.1.0
-Section: Tweaks
-Maintainer: GKTzero97 <oneminusone97@gmail.com>
-Depends: mobilesubstrate
-Filename: ./debs/fluidity_0.1.0.deb
-Size: 258862
-MD5sum: 9ac9b783966c6ade610dd5799906b525
-Description: Welcome To Oneminusone97 Repository
-Name: Fluidity
-Author: GKTzero97 <oneminusone97@gmail.com>
-
 Package: com.oneminusone97.disablelockcamera
 Architecture: iphoneos-arm
-Version: 1.0.2
+Version: 1.0-2
 Section: Tweaks
 Maintainer: GKTzero97 <oneminusone97@gmail.com>
 Depends: firmware (>= 7.0), mobilesubstrate (>= 0.9.5000)
 Filename: ./debs/disablelockcamera_1.0.2.deb
 Size: 2688
+Installed-Size: 64
 MD5sum: 36800d28a65b6940c157611af979e386
 Description: Welcome To Oneminusone97 Repository
 Name: DisableLockCamera
 Author: GKTzero97 <oneminusone97@gmail.com>
+
