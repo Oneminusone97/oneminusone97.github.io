@@ -1,13 +1,15 @@
-Package: vn.oneminusone97.disablelockcamera
-Architecture: iphoneos-arm
-Version: 1.0-2
-Section: Tweaks
-Author: Skylerk99 <skylerk99@gmail.com>
-Maintainer: GKTzero97 <oneminusone97@gmail.com>
-Depends: firmware (>= 7.0), mobilesubstrate (>= 0.9.5000)
-Filename: ./debs/vn.oneminusone97.disablelockcamera_1.0-2_iphoneos-arm.deb
-Size: 2688
-Installed-Size: 64
-MD5sum: 36800d28a65b6940c157611af979e386
-Description: Welcome To Oneminusone97 Repository
+Package: com.oneminusone97.disablelockcamera
 Name: DisableLockCamera
+Version: 1.0-2
+Architecture: iphoneos-arm
+Description: Welcome To Oneminusone97 Repository
+Depiction: https://oneminusone97.github.io/
+Author: Skylerk99 <pxcex@icloud.com>
+Maintainer: GKTzero97 <oneminusone97@gmail.com>
+Section: Tweaks
+Depends: firmware (>= 7.0), mobilesubstrate (>= 0.9.5000)
+Size:2688	
+MD5:36800d28a65b6940c157611af979e386  
+Filename: ./debs/com.oneminusone97.disablelockcamera_1.0-2_iphoneos-arm.deb
+SHA1:0a81ed8486c87b77915c3ba01aee0ff71a9c803b  
+SHA256:d5f6a858b4b03480a97712244ec87191c57b3576e378e3f9592e3963fa7999e3  
